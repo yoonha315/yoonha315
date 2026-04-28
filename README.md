@@ -34,30 +34,24 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**튈까? 말까?**](https://github.com/) — OTT Churn Prediction | XGBoost churn pipeline with Streamlit CRM dashboard. PR-AUC **0.945**, batch CSV risk scoring. | `XGBoost` `scikit-learn` `Streamlit` |
-| [**Customer Churn Modeling**](https://github.com/) — WiDS 2024 | Ensemble models to predict churn in AI-driven services. SHAP-based explainability for retention strategy. | `scikit-learn` `SHAP` `Pandas` |
-| [**Vancouver Rental Forecasting**](https://github.com/) — WiDS 2024 | Predictive models for short-term rental revenue under regulatory scenarios using Airbnb data. | `scikit-learn` `Pandas` `Seaborn` |
+| [**튈까? 말까?**](https://github.com/twilkka-malkka/twilkka-malkka-ml) — OTT Churn Prediction | Logistic Regression, Random Forest & XGBoost churn pipeline with Streamlit CRM dashboard. PR-AUC **0.945**. | `XGBoost` `Random Forest` `Streamlit` |
+| [**Customer Churn Modeling**](https://github.com/asa287/WIDS-SAP-case-comp) — WiDS 2024 | Ensemble models to predict churn in AI-driven services. SHAP-based explainability for retention strategy. | `scikit-learn` `SHAP` `Pandas` |
+| [**Vancouver Rental Forecasting**](https://github.com/isobela/WIDS-Case-Competiton) — WiDS 2024 | Predictive models for short-term rental revenue under regulatory scenarios using Airbnb data. | `scikit-learn` `Pandas` `Seaborn` |
 | [**Movie EDA**](https://github.com/SKN26-Team4/movie_eda) — Box Office Analysis | Data-driven market entry strategy for emerging film distributors using KOBIS box office data. | `Pandas` `Matplotlib` `Seaborn` |
 
 ---
 
 ### Experience
 
-```
-2026        SK Networks Family AI Camp — AI / Deep Learning Bootcamp
-  ├─ Full-time intensive (Jan–Jul 2026)
-  ├─ End-to-end AI: Python → ML → DL → NLP → LLM → deployment
-  └─ 5+ team projects including 38-day capstone
+**SK Networks Family AI Camp** · AI / Deep Learning Bootcamp `Jan 2026 — Jul 2026`  
+End-to-end AI intensive — Python, ML, DL, NLP, LLM, deployment. 5+ team projects including 38-day capstone.
 
-2021–2025   University of British Columbia
-  ├─ Chair, Science Case Competition Committee
-  ├─ Statistician, Marketing & Statistics Committee (Tableau, EDA)
-  └─ HCI coursework: usability studies, UX research
-```
+**University of British Columbia** `Sep 2021 — May 2025`  
+Chair of Science Case Competition · Statistician, Marketing Committee · HCI & UX Research
 
 ---
 
 <p>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yoonha-jeon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yhjeon0315@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
