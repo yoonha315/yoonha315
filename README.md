@@ -46,6 +46,8 @@
 **SK Networks Family AI Camp** · AI / Deep Learning Bootcamp `Jan 2026 — Jul 2026`  
 End-to-end AI intensive — Python, ML, DL, NLP, LLM, deployment. 5+ team projects including 38-day capstone.
 
+![Study Dashboard](https://img.shields.io/badge/Study%20Dashboard-000000?style=flat-square&logo=notion&logoColor=white)
+
 **University of British Columbia** · BSc Statistics `Sep 2021 — May 2025`  
 Chair of Science Case Competition · Statistician, Marketing Committee · HCI & UX Research
 
